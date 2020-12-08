@@ -8,8 +8,8 @@ var happyDogImage;
 
 function preload()
 {
-  happyDogImage = loadImage("images/Dog.png");
-  dogImage = loadImage("images/happydog.png");
+  happyDogImage = loadImage("Dog.png");
+  dogImage = loadImage("happydog.png");
 }
 
 function setup() {
